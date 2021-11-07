@@ -1,0 +1,1 @@
+{"repo": "mlvc-lab/Classification-NAS", "imports": [{"name": "tensorflow", "module": null, "asname": "tf"}, {"name": "autokeras", "module": null, "asname": "ak"}, {"name": "utils", "module": "tests", "asname": null}], "file_in_repo": "Auto-Keras/tests/integration_tests/task_api_test.py", "repo_version": "latest", "file": "task_api_test.py"}

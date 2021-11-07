@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "autogluon", "module": null, "asname": "ag"}, {"name": "ImageClassification", "module": "autogluon", "asname": "task"}], "file_in_repo": "tests/unittests/test_image_classification.py", "repo_version": "v0.0.8", "file": "test_image_classification.py"}

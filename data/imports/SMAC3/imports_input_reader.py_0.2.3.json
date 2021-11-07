@@ -1,0 +1,1 @@
+{"repo": "automl/SMAC3", "imports": [{"name": "numpy", "module": null, "asname": "np"}, {"name": "pcs", "module": "smac.configspace", "asname": null}], "file_in_repo": "smac/utils/io/input_reader.py", "repo_version": "0.2.3", "file": "input_reader.py"}

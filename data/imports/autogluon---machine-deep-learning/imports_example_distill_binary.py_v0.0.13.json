@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "shutil", "module": null, "asname": null}, {"name": "TabularPrediction", "module": "autogluon", "asname": "task"}], "file_in_repo": "examples/tabular/distill/example_distill_binary.py", "repo_version": "v0.0.13", "file": "example_distill_binary.py"}

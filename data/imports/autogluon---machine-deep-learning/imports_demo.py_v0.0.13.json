@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "autogluon", "module": null, "asname": "ag"}, {"name": "ObjectDetection", "module": "autogluon", "asname": "task"}, {"name": "os", "module": null, "asname": null}], "file_in_repo": "examples/object_detection/demo.py", "repo_version": "v0.0.13", "file": "demo.py"}

@@ -1,0 +1,1 @@
+{"repo": "yy-iris/autokeras", "imports": [{"name": "os", "module": null, "asname": null}, {"name": "pandas", "module": null, "asname": "pd"}, {"name": "tensorflow", "module": null, "asname": "tf"}, {"name": "autokeras", "module": null, "asname": "ak"}], "file_in_repo": "autokeras-1.0.14/examples/wine.py", "repo_version": "latest", "file": "wine.py"}

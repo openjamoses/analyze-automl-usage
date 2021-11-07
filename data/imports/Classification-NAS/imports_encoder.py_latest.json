@@ -1,0 +1,1 @@
+{"repo": "mlvc-lab/Classification-NAS", "imports": [{"name": "serializable", "module": "autokeras.engine", "asname": null}], "file_in_repo": "Auto-Keras/autokeras/engine/encoder.py", "repo_version": "latest", "file": "encoder.py"}

@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "autogluon", "module": null, "asname": "ag"}, {"name": "TabularPrediction", "module": "autogluon", "asname": "task"}], "file_in_repo": "examples/tabular/example_advanced_tabular.py", "repo_version": "v0.0.10", "file": "example_advanced_tabular.py"}

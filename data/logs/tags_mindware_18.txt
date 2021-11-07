@@ -1,0 +1,14 @@
+refs/tags/1.0 Fri May 15 20:57:28 2020 +0800
+
+refs/tags/v1.1 Tue Dec 29 20:11:57 2020 +0800
+
+refs/tags/v1.2 Tue Dec 29 20:13:22 2020 +0800
+
+refs/tags/v1.2.1 Wed Apr 21 16:33:45 2021 +0800
+
+refs/tags/main_reproduction Fri May 7 16:30:49 2021 +0800
+
+refs/tags/plan_reproduction Fri May 7 16:33:27 2021 +0800
+
+refs/tags/dl_checkpoint Sun May 30 21:30:22 2021 +0800
+

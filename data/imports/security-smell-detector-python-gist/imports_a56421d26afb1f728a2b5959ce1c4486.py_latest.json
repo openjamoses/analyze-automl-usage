@@ -1,0 +1,1 @@
+{"repo": "malefs/security-smell-detector-python-gist", "imports": [{"name": "cnn", "module": "cnn", "asname": null}, {"name": "hyperopt", "module": null, "asname": null}], "file_in_repo": "gist-src/a56421d26afb1f728a2b5959ce1c4486.py", "repo_version": "latest", "file": "a56421d26afb1f728a2b5959ce1c4486.py"}

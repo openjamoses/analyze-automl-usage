@@ -1,0 +1,28 @@
+refs/tags/1.0rc0 Thu Oct 10 22:16:43 2019 -0700
+
+refs/tags/1.0.0 Mon Oct 28 16:11:46 2019 -0700
+
+refs/tags/1.0.2rc0 Mon Jun 22 20:01:08 2020 +0000
+
+refs/tags/1.0.2rc1 Tue Jul 14 20:25:26 2020 +0000
+
+refs/tags/1.0.2rc2 Tue Sep 15 12:03:30 2020 -0500
+
+refs/tags/1.0.2rc3 Wed Oct 7 17:24:50 2020 +0000
+
+refs/tags/1.0.2rc4 Thu Oct 29 22:34:03 2020 +0000
+
+refs/tags/1.0.2 Fri Nov 20 18:40:37 2020 +0000
+
+refs/tags/1.0.3 Thu Jun 17 14:57:50 2021 -0500
+
+refs/tags/1.0.4rc0 Sun Aug 15 05:32:11 2021 +0000
+
+refs/tags/1.0.4rc1 Tue Aug 24 06:03:16 2021 +0000
+
+refs/tags/1.0.4 Tue Aug 24 02:43:13 2021 -0500
+
+refs/tags/1.1.0rc0 Tue Oct 19 23:00:23 2021 +0000
+
+refs/tags/1.1.0 Fri Nov 5 17:09:51 2021 +0000
+

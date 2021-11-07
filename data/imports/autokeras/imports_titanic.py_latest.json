@@ -1,0 +1,1 @@
+{"repo": "yy-iris/autokeras", "imports": [{"name": "timeit", "module": null, "asname": null}, {"name": "tensorflow", "module": null, "asname": "tf"}, {"name": "autokeras", "module": null, "asname": "ak"}], "file_in_repo": "autokeras-1.0.14/examples/titanic.py", "repo_version": "latest", "file": "titanic.py"}

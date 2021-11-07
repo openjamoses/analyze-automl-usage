@@ -1,0 +1,1 @@
+{"repo": "yy-iris/autokeras", "imports": [{"name": "cifar10", "module": "tensorflow.keras.datasets", "asname": null}, {"name": "autokeras", "module": null, "asname": "ak"}], "file_in_repo": "autokeras-1.0.14/examples/cifar10.py", "repo_version": "latest", "file": "cifar10.py"}

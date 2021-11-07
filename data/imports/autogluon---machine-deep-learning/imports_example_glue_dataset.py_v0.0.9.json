@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "autogluon", "module": null, "asname": "ag"}, {"name": "TextClassification", "module": "autogluon", "asname": "task"}], "file_in_repo": "examples/text_classification/example_glue_dataset.py", "repo_version": "v0.0.9", "file": "example_glue_dataset.py"}

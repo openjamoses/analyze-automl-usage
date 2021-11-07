@@ -1,0 +1,1 @@
+{"repo": "automl/SMAC3", "imports": [{"name": "logging", "module": null, "asname": null}, {"name": "branin", "module": "branin", "asname": null}, {"name": "fmin_smac", "module": "smac.facade.func_facade", "asname": null}], "file_in_repo": "examples/branin/branin_fmin.py", "repo_version": "v0.11.0", "file": "branin_fmin.py"}

@@ -1,0 +1,1 @@
+{"repo": "yy-iris/autokeras", "imports": [{"name": "pandas", "module": null, "asname": "pd"}, {"name": "tensorflow", "module": null, "asname": "tf"}, {"name": "autokeras", "module": null, "asname": "ak"}], "file_in_repo": "autokeras-1.0.14/docs/py/timeseries_forecaster.py", "repo_version": "latest", "file": "timeseries_forecaster.py"}

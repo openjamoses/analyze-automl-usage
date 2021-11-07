@@ -1,0 +1,1 @@
+{"repo": "mlvc-lab/Classification-NAS", "imports": [{"name": "mock", "module": "unittest", "asname": null}, {"name": "numpy", "module": null, "asname": "np"}, {"name": "autokeras", "module": null, "asname": "ak"}], "file_in_repo": "Auto-Keras/tests/autokeras/auto_model_test.py", "repo_version": "latest", "file": "auto_model_test.py"}

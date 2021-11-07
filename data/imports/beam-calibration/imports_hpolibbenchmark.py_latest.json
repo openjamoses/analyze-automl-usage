@@ -1,0 +1,1 @@
+{"repo": "kiranchhatre/beam-calibration", "imports": [{"name": "ConfigSpace", "module": null, "asname": "CS"}, {"name": "Worker", "module": "hpbandster.core.worker", "asname": null}], "file_in_repo": "BOHB/hpbandster/workers/hpolibbenchmark.py", "repo_version": "latest", "file": "hpolibbenchmark.py"}

@@ -1,0 +1,1 @@
+{"repo": "mlvc-lab/Classification-NAS", "imports": [{"name": "numpy", "module": null, "asname": "np"}, {"name": "tensorflow", "module": null, "asname": "tf"}, {"name": "autokeras", "module": null, "asname": "ak"}], "file_in_repo": "Auto-Keras/examples/imdb.py", "repo_version": "latest", "file": "imdb.py"}

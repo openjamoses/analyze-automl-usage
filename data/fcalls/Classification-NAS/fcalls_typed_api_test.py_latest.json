@@ -1,0 +1,1 @@
+[{"name": "ensure_api_is_typed", "repo": "mlvc-lab/Classification-NAS", "file_in_repo": "Auto-Keras/tests/autokeras/typed_api_test.py", "parent_function": "test_api_surface_is_typed", "file": "typed_api_test.py", "params": null, "repo_version": "latest"}]

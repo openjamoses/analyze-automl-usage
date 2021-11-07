@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "mxnet", "module": null, "asname": "mx"}, {"name": "pytest", "module": null, "asname": null}, {"name": "get_model", "module": "autogluon.model_zoo", "asname": null}], "file_in_repo": "tests/unittests/test_model_zoo.py", "repo_version": "v0.0.13", "file": "test_model_zoo.py"}

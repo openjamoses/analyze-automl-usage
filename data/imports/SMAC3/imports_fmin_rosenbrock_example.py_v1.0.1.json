@@ -1,0 +1,1 @@
+{"repo": "automl/SMAC3", "imports": [{"name": "logging", "module": null, "asname": null}, {"name": "fmin_smac", "module": "smac.facade.func_facade", "asname": null}], "file_in_repo": "examples/function_minimization/fmin_rosenbrock_example.py", "repo_version": "v1.0.1", "file": "fmin_rosenbrock_example.py"}

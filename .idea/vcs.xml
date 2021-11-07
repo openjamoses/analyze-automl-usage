@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/GestureDetector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/ResiNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/cs273-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/gcrl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/hyperspace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/jjp1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/mindware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/optuna-mirror" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/ray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/ray-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/ray-repo-clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/clones/ts-learning" vcs="Git" />
+  </component>
+</project>

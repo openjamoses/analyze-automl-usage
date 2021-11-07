@@ -1,0 +1,1 @@
+{"repo": "e-dorigatti/hyperband-snakemake", "imports": [{"name": "main", "module": "hyperband_snakemake.cli", "asname": null}], "file_in_repo": "hyperband_snakemake/__main__.py", "repo_version": "v0.0.2", "file": "__main__.py"}

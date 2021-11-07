@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "os", "module": null, "asname": null}, {"name": "autogluon", "module": null, "asname": "ag"}, {"name": "optimizer", "module": "mxnet", "asname": "optim"}], "file_in_repo": "examples/image_classification/kaggle_configuration.py", "repo_version": "v0.0.6", "file": "kaggle_configuration.py"}

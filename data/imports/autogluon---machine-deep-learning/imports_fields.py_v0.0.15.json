@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "batchify", "module": "autogluon_contrib_nlp.data", "asname": "bf"}], "file_in_repo": "autogluon/task/text_prediction/fields.py", "repo_version": "v0.0.15", "file": "fields.py"}

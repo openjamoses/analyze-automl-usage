@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "TabularPrediction", "module": "autogluon", "asname": "task"}], "file_in_repo": "examples/tabular/example_simple_tabular.py", "repo_version": "v0.0.8", "file": "example_simple_tabular.py"}

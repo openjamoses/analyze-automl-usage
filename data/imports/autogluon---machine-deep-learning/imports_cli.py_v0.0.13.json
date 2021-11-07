@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "click", "module": null, "asname": null}, {"name": "DaskRemoteService", "module": "autogluon.scheduler.remote.remote", "asname": null}], "file_in_repo": "autogluon/scheduler/remote/cli.py", "repo_version": "v0.0.13", "file": "cli.py"}

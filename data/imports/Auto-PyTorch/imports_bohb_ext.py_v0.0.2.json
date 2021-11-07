@@ -1,0 +1,1 @@
+{"repo": "automl/Auto-PyTorch", "imports": [{"name": "BOHB", "module": "hpbandster.optimizers.bohb", "asname": null}, {"name": "run_with_time", "module": "autoPyTorch.core.hpbandster_extensions.run_with_time", "asname": null}], "file_in_repo": "autoPyTorch/core/hpbandster_extensions/bohb_ext.py", "repo_version": "v0.0.2", "file": "bohb_ext.py"}

@@ -1,0 +1,1 @@
+{"repo": "palaciosnrps/automl-rs-project", "imports": [{"name": "nest", "module": "tensorflow.python.util", "asname": null}, {"name": "named_hypermodel", "module": "autokeras.engine", "asname": null}, {"name": "node", "module": "autokeras.engine", "asname": "node_module"}], "file_in_repo": "autokeras/engine/block.py", "repo_version": "latest", "file": "block.py"}

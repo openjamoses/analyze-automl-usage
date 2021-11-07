@@ -1,0 +1,1 @@
+{"repo": "mlvc-lab/Classification-NAS", "imports": [{"name": "mnist", "module": "tensorflow.keras.datasets", "asname": null}, {"name": "autokeras", "module": null, "asname": "ak"}], "file_in_repo": "Auto-Keras/examples/mnist.py", "repo_version": "latest", "file": "mnist.py"}

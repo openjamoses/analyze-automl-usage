@@ -1,0 +1,1 @@
+{"repo": "aminkhairoun/autogluon---machine-deep-learning", "imports": [{"name": "math", "module": null, "asname": null}, {"name": "autogluon", "module": null, "asname": "ag"}, {"name": "ImageClassification", "module": "autogluon", "asname": "task"}], "file_in_repo": "examples/nas/search_efficientnet.py", "repo_version": "v0.0.10", "file": "search_efficientnet.py"}
